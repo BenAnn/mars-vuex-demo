@@ -8,6 +8,7 @@ Depend on @marsjs/cli and add vuex
 
 ## Start
 
+```bash
 npm install -g @marsjs/cli
 
 git clone https://github.com/BenAnn/mars-vuex-demo.git
@@ -17,3 +18,4 @@ cd mars-vuex-demo
 npm install
 
 mars serve
+```
